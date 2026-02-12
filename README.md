@@ -73,7 +73,7 @@ To understand and implement parallel LCD communication using:
 - Convert into reusable LCD driver library
 - Add dynamic user input display
 - Interface sensors and display readings
-- Combine with UART for serial-to-LCD display
+- Integrate with UART for serial-to-LCD communication
 - Implement menu-based LCD system
 
 ---
